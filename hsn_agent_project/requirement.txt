@@ -1,0 +1,6 @@
+Library require forthe project
+
+    # Google adk (Agent development kit)
+    # pandas  
+    # litellm  (If use local model)
+    # openpyxl (for excel) 

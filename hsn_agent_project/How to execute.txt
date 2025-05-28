@@ -1,0 +1,9 @@
+# Set up a virtual environment for the project.
+
+# Install dependencies from requirements.txt.
+
+# This project uses the Ollama model (LLaMA 3.2).
+
+# If running locally, ensure Ollama is installed.
+
+# Once set up, use ADK Web to launch the model on the website.
